@@ -2,7 +2,6 @@
 
 ![BTC/USDT](https://img.shields.io/badge/Cryptocurrency-BTC/USDT-blue) 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green) 
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project explores **seasonality patterns** in the BTC/USDT market and develops a **hybrid trading strategy** combining buy-and-hold and active trading. Using advanced techniques like Fourier Transform, LSTM modelling, and Gradient Boosting, we uncover hidden patterns in hourly price data and build a robust trading system.
 
